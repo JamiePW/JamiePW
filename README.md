@@ -1,6 +1,6 @@
 目前就读于北京航空航天大学网络空间安全学院，硕士研究生，研究方向为侧信道分析  
 
-Currently a M.S. in the School of Cyber Science and Technology of Beihang University with research interests on side-channel analysis
+Currently a M.S. student in the School of Cyber Science and Technology of Beihang University with research interests on side-channel analysis
 
 本科毕业于北京航空航天大学网络空间安全学院，信息安全（工科）专业，总GPA 3.85/4，专业排名2/50，获评北京航空航天大学优秀毕业生  
 
