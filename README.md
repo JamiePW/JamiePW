@@ -14,3 +14,6 @@ Email: jamiepw@163.com jamiepw214@gmail.com
 
 URL: [jamiepw.github.io](https://jamiepw.github.io/)
 
+<img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=JamiePW&show_icons=true&locale=en" alt="JamiePW's Github Stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JamiePW&show_icons=true&locale=en&layout=compact" alt="JamiePW's Top Languages Card" />
